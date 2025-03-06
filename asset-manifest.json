@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reacr-trawel/static/css/main.79fcd74a.css",
-    "main.js": "/reacr-trawel/static/js/main.c262bc8e.js",
+    "main.css": "/reacr-trawel/static/css/main.2455be67.css",
+    "main.js": "/reacr-trawel/static/js/main.aeaceba5.js",
     "static/media/TravelBackground.jpg": "/reacr-trawel/static/media/TravelBackground.d96c3321d4fad1c8ff01.jpg",
     "static/media/InfoTravelTwo.jpg": "/reacr-trawel/static/media/InfoTravelTwo.70d6a37d3811ac0ac8fd.jpg",
     "static/media/InfoTravelOne.jpg": "/reacr-trawel/static/media/InfoTravelOne.dce80b3860d6adbce3d2.jpg",
     "index.html": "/reacr-trawel/index.html",
-    "main.79fcd74a.css.map": "/reacr-trawel/static/css/main.79fcd74a.css.map",
-    "main.c262bc8e.js.map": "/reacr-trawel/static/js/main.c262bc8e.js.map"
+    "main.2455be67.css.map": "/reacr-trawel/static/css/main.2455be67.css.map",
+    "main.aeaceba5.js.map": "/reacr-trawel/static/js/main.aeaceba5.js.map"
   },
   "entrypoints": [
-    "static/css/main.79fcd74a.css",
-    "static/js/main.c262bc8e.js"
+    "static/css/main.2455be67.css",
+    "static/js/main.aeaceba5.js"
   ]
 }
